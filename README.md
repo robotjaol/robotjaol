@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonarhan Oktaviano Frizzy</h1>
+<h1 align="center">Hi 👋, I'm Jonathan Oktaviano Frizzy</h1>
 <h3 align="center">Student at ITS, Surabaya🌟.</h3>
 
 <!-- <br>
