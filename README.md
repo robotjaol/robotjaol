@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱 I’m currently learning Web Development, Computer Vision, Machine Learning, PLC, Microcontroller and other automation system
+- 🌱 I’m currently learning React, Robot Development, PLC, and other automation system
 
 - 📫 How to reach me **jonathanoktavianofrizzy@gmail.com**
 
