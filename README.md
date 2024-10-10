@@ -1,1 +1,1 @@
-## std::cout << "Hello World !" << std::endl;
+## std::cout << " ハロー・ワールド " << std::endl;
