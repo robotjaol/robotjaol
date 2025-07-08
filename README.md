@@ -1,6 +1,6 @@
 ### std::cout << ("ハロー・ワールド") << std::endl;
 
-## 🔗 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jonathan-oktaviano/" target="_blank">
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
 <p align="center">
 
@@ -67,7 +67,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Python17
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
