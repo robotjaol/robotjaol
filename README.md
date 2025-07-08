@@ -1,22 +1,4 @@
-## #include < ConnectWithMe .hpp >;
 ## std::cout << ("ハロー・ワールド") << std::endl;
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jonathan-oktaviano/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://jonathanof.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
-  <a href="mailto:oktavianowork@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### if you-know-me(true){return Tech Stack};
-
 <p align="center">
 
 <!-- Embedded & Automation -->
@@ -62,9 +44,43 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
+<!-- Embedded Systems (Tambahan) -->
+<img src="https://img.shields.io/badge/ESP32-323232?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+
+<!-- Real-Time Operating Systems -->
+<img src="https://img.shields.io/badge/FreeRTOS-1C8ECB?style=flat-square&logo=freertos&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zephyr-6B3FA0?style=flat-square&logo=zephyrproject&logoColor=white"/>
+
+<!-- Communication Protocols -->
+<img src="https://img.shields.io/badge/CAN_Bus-005792?style=flat-square&logo=protocols.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/I2C-003B57?style=flat-square&logo=protocols.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPI-003B57?style=flat-square&logo=protocols.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/UART-292929?style=flat-square&logo=serial&logoColor=white"/>
+<img src="https://img.shields.io/badge/MODBUS-005B94?style=flat-square&logo=protocols.io&logoColor=white"/>
+<img src="https://img.shields.io/badge/RS--485-00758F?style=flat-square&logo=protocols.io&logoColor=white"/>
+
+<!-- Control & Simulation -->
+<img src="https://img.shields.io/badge/PID_Control-1A1A1A?style=flat-square&logo=controlsystem&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB_&_Simulink-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+<img src="https://img.shields.io/badge/LTspice-9C27B0?style=flat-square&logo=analogdevices&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multisim-004A77?style=flat-square&logo=ni&logoColor=white"/>
+
+<!-- Robotics & Perception -->
+<img src="https://img.shields.io/badge/ROS2-F4A900?style=flat-square&logo=ros&logoColor=black"/>
+<img src="https://img.shields.io/badge/RealSense-0078D7?style=flat-square&logo=intel&logoColor=white"/>
+<img src="https://img.shields.io/badge/SLAM-292929?style=flat-square&logo=slam&logoColor=white"/>
+<img src="https://img.shields.io/badge/URDF-0E8AC8?style=flat-square&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gazebo-4E8F9A?style=flat-square&logo=gazebo&logoColor=white"/>
+
+<!-- PCB & Hardware Design -->
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=flat-square&logo=kicad&logoColor=white"/>
+<img src="https://img.shields.io/badge/Altium_Designer-AA1F2F?style=flat-square&logo=altiumdesigner&logoColor=white"/>
+<img src="https://img.shields.io/badge/EasyEDA-2A99E1?style=flat-square&logo=easyeda&logoColor=white"/>
+
 </p>
 
----
 
 ## std::cout <<"🐍 Python17" << std::endl;
 
