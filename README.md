@@ -1,7 +1,6 @@
 ## std::cout << ("ハロー・ワールド") << std::endl;
 <p align="center">
 
-<!-- ## std::cout <<"🐍 Python17" << std::endl; -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation">
