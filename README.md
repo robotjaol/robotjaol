@@ -23,6 +23,8 @@ I enjoy turning complex technical ideas into small, inspectable systems: a model
 
 ## Current interests
 
-Machine learning systems, engineering optimisation, industrial automation, embedded Linux, real-time systems, computer vision, and sustainable infrastructure.
+Automation Control, PLC, DCS/SCADA, machine learning systems, engineering optimisation, industrial automation, embedded Linux, real-time systems, computer vision, and sustainable infrastructure.
 
-Browse the pinned repositories below for the most representative projects. Issues and focused pull requests are welcome in repositories that include contribution guidance.
+Browse the pinned repositories below for the most representative projects. Issues and focused pull requests are welcome in repositories that include contribution guidance. 
+
+email: robotjaol@gmail.com
