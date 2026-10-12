@@ -22,7 +22,7 @@ I enjoy turning complex technical ideas into small, inspectable systems: a model
 - Share useful building blocks without exposing confidential project details.
 
 ## How I work
-![my current workflow](doc/workflow.png)
+<img src="doc/workflow.png" alt="my current workflow" width="600">
 
 ## Current interests
 
