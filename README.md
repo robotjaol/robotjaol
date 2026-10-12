@@ -22,8 +22,9 @@ I enjoy turning complex technical ideas into small, inspectable systems: a model
 - Share useful building blocks without exposing confidential project details.
 
 ## How I work
-<img src="doc/workflow.png" alt="my current workflow" width="600">
-
+<p align="center">
+  <img src="doc/workflow.png" alt="My current workflow" width="600">
+</p>
 ## Current interests
 
 Internal Reward Development, Ontology, Risk management, Automation & Digitalization, PLC, DCS/SCADA, machine learning, embedded Linux, Supply Chain, real-time systems, computer vision, and sustainable infrastructure.
