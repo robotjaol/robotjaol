@@ -13,8 +13,7 @@ I enjoy turning complex technical ideas into small, inspectable systems: a model
 - [SpaceX Personal Research](https://github.com/robotjaol/spacex-research) — Independent aerospace research connecting public SpaceX sources with engineering models.
 - [STM32 IMU Board](https://github.com/robotjaol/stm32_imu_board) — an embedded hardware platform integrating STM32-based processing with inertial sensing for motion and robotics experimentation.
 
-## Engineering principles (First principles thinking)
-
+## Engineering principles
 - Make assumptions, units, and safety boundaries visible.
 - Prefer reproducible experiments over unexplained results.
 - Keep interfaces small and components replaceable.
