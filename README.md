@@ -23,7 +23,7 @@ I enjoy turning complex technical ideas into small, inspectable systems: a model
 
 ## How I work
 <p align="center">
-  <img src="doc/workflow.png" alt="My current workflow" width="600">
+  <img src="doc/workflow.png" alt="My current workflow" width="300">
 </p>
 
 ## Current interests
