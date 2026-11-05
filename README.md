@@ -9,7 +9,7 @@ I enjoy turning complex technical ideas into small, inspectable systems: a model
 - [Text Embedding](https://github.com/robotjaol/text-embedding) — an open-source playground for exploring text embeddings, semantic representations, and NLP workflows.
 - [Route Optimization](https://github.com/robotjaol/last-mile-route-optimization) — screening-level industrial load and route simulations.
 - [Vision Transformer Study](https://github.com/robotjaol/vit) — readable ViT implementations and a learning notebook.
-- [DeepThink Gamma](https://github.com/robotjaol/deepthink-gamma) — an experimental open-source framework for structured AI reasoning, and research. exploration.
+- [RF Positioning System](https://github.com/robotjaol/rf-positioning-system) — Open-source resilient positioning system combining GNSS, IMU, WiFi, cellular, and sensor fusion with Android data acquisition.
 - [SpaceX Personal Research](https://github.com/robotjaol/spacex-research) — Independent aerospace research connecting public SpaceX sources with engineering models.
 - [STM32 IMU Board](https://github.com/robotjaol/stm32_imu_board) — an embedded hardware platform integrating STM32-based processing with inertial sensing for motion and robotics experimentation.
 
